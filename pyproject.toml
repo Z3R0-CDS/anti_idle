@@ -1,0 +1,15 @@
+[project]
+name = "anti-idle"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "customtkinter>=6.0.0",
+    "pillow>=12.3.0",
+    "pyautogui>=0.9.54",
+    "pynput>=1.8.2",
+    "pystray>=0.19.5",
+    "requests>=2.34.2",
+    "tkcalendar>=1.6.1",
+]

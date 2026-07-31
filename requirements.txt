@@ -1,1 +1,6 @@
 pyautogui
+customtkinter
+pynput
+requests
+pystray
+Pillow
